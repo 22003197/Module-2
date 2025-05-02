@@ -1,4 +1,4 @@
-# Exp.No:2e  
+# Exp.No: 10
 ## SEB - FIND SUM OF SERIES
 
 ### AIM  
