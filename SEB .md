@@ -1,5 +1,5 @@
 # Exp.No: 10
-## SEB - FIND SUM OF SERIES
+# SEB 
 
 ### AIM  
 
