@@ -1,5 +1,5 @@
 # Exp.No:8
-## BUILT-IN FUNCTIONS AND LAMBDA FUNCTIONS - POWER OF A NUMBER 
+# BUILT-IN FUNCTIONS AND LAMBDA FUNCTIONS  
 
 ### AIM  
 To write a Python program to compute the power of the given number using appropriate built -in function . 
